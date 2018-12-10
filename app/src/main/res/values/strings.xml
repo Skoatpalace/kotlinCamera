@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlinCamera</string>
+    <string name="start_camera">Start camera</string>
+</resources>
